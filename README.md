@@ -7,9 +7,9 @@ It helps stakeholders monitor call volume, agent performance, service level, and
 ---
 
 ## 🖼 Dashboard Preview
-![Home]()
-![Overview]()
-![Agent Performance](screenshots/agent-performance.png)
+![Home](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195731.png)
+![Overview](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195821.png)
+![Agent Performance](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195847.png)
 
 
 ## 📊 Key KPIs
@@ -35,6 +35,8 @@ It helps stakeholders monitor call volume, agent performance, service level, and
 - Data Modeling
 - Data Visualization Best Practices
 
+created by 
+Mirna Nabil
 ---
 
 ## 🔗 Live Interactive Dashboard
