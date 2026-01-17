@@ -41,6 +41,11 @@ Agent performace
 - Data Modeling
 - Data Visualization Best Practices
 
+## 🎥 Dashboard Walkthrough (Video Demo)
+
+Click the image below to watch a short demo of the interactive Power BI dashboard.
+[![Dashboard Video](https://drive.google.com/file/d/17JlasCKyrQCgEy9QOlT34u-07_yZ4Ov_/view?usp=drivesdk)
+
 created by 
 Mirna Nabil
 ---
