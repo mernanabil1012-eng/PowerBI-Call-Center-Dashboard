@@ -9,13 +9,13 @@ It helps stakeholders monitor call volume, agent performance, service level, and
 ## 🖼 Dashboard Preview
 
 Home
-![Home](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195731.png)
+![Home](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Dashboard%20Home.png)
 
 Overview
-![Overview](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195821.png)
+![Overview](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Call%20Center%20Overview.png)
 
 Agent performace
-![Agent Performance](Agent Performance.png)
+![Agent Performance](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Agent%20Performance.png)
 
 
 ## 📊 Key KPIs
