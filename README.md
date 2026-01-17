@@ -15,7 +15,7 @@ Overview
 ![Overview](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195821.png)
 
 Agent performace
-![Agent Performance](https://github.com/mernanabil1012-eng/PowerBI-Call-Center-Dashboard/blob/main/Screenshot%202026-01-16%20195847.png)
+![Agent Performance](Agent Performance.png)
 
 
 ## 📊 Key KPIs
